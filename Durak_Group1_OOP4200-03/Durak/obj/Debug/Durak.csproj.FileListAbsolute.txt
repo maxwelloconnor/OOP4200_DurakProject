@@ -1,0 +1,11 @@
+C:\Users\Paul\Desktop\Durak_Group1_OOP4200-03\Durak\bin\Debug\Durak.exe.config
+C:\Users\Paul\Desktop\Durak_Group1_OOP4200-03\Durak\bin\Debug\Durak.exe
+C:\Users\Paul\Desktop\Durak_Group1_OOP4200-03\Durak\bin\Debug\Durak.pdb
+C:\Users\Paul\Desktop\Durak_Group1_OOP4200-03\Durak\obj\Debug\Durak.csprojResolveAssemblyReference.cache
+C:\Users\Paul\Desktop\Durak_Group1_OOP4200-03\Durak\obj\Debug\Durak.frmMenu.resources
+C:\Users\Paul\Desktop\Durak_Group1_OOP4200-03\Durak\obj\Debug\Durak.Properties.Resources.resources
+C:\Users\Paul\Desktop\Durak_Group1_OOP4200-03\Durak\obj\Debug\Durak.csproj.GenerateResource.Cache
+C:\Users\Paul\Desktop\Durak_Group1_OOP4200-03\Durak\obj\Debug\Durak.exe
+C:\Users\Paul\Desktop\Durak_Group1_OOP4200-03\Durak\obj\Debug\Durak.pdb
+C:\Users\Paul\Desktop\Durak_Group1_OOP4200-03\Durak\obj\Debug\Durak.frmGameScreen.resources
+C:\Users\Paul\Desktop\Durak_Group1_OOP4200-03\Durak\obj\Debug\Durak.frmScoreScreen.resources
